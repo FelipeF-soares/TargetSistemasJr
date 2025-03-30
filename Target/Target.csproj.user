@@ -13,5 +13,8 @@
     <Compile Update="Views\UserControlExercicio3.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="Views\UserControlExercicio4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

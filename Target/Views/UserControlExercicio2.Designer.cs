@@ -42,7 +42,7 @@
             label1.Anchor = AnchorStyles.Top;
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.Location = new Point(112, 22);
+            label1.Location = new Point(236, 22);
             label1.Name = "label1";
             label1.Size = new Size(391, 21);
             label1.TabIndex = 0;
@@ -53,7 +53,7 @@
             label2.Anchor = AnchorStyles.Top;
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label2.Location = new Point(191, 64);
+            label2.Location = new Point(315, 64);
             label2.Name = "label2";
             label2.Size = new Size(199, 21);
             label2.TabIndex = 1;
@@ -64,7 +64,7 @@
             label3.Anchor = AnchorStyles.Top;
             label3.AutoSize = true;
             label3.Font = new Font("Segoe UI Semibold", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label3.Location = new Point(138, 109);
+            label3.Location = new Point(262, 109);
             label3.Name = "label3";
             label3.Size = new Size(336, 51);
             label3.TabIndex = 2;
@@ -73,8 +73,9 @@
             // 
             // label4
             // 
+            label4.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             label4.AutoSize = true;
-            label4.Location = new Point(112, 194);
+            label4.Location = new Point(220, 187);
             label4.Name = "label4";
             label4.Size = new Size(36, 15);
             label4.TabIndex = 3;
@@ -82,14 +83,15 @@
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(154, 191);
+            textBox1.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            textBox1.Location = new Point(262, 184);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(320, 23);
             textBox1.TabIndex = 4;
             // 
             // button1
             // 
-            button1.Location = new Point(257, 241);
+            button1.Location = new Point(365, 234);
             button1.Name = "button1";
             button1.Size = new Size(75, 23);
             button1.TabIndex = 5;
@@ -100,9 +102,11 @@
             // labelResposta
             // 
             labelResposta.AutoSize = true;
+            labelResposta.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            labelResposta.ForeColor = Color.Red;
             labelResposta.Location = new Point(154, 306);
             labelResposta.Name = "labelResposta";
-            labelResposta.Size = new Size(16, 15);
+            labelResposta.Size = new Size(35, 32);
             labelResposta.TabIndex = 6;
             labelResposta.Text = "...";
             // 
@@ -118,7 +122,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "UserControlExercicio2";
-            Size = new Size(659, 495);
+            Size = new Size(906, 459);
             ResumeLayout(false);
             PerformLayout();
         }

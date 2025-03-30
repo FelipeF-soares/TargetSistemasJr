@@ -47,5 +47,14 @@ namespace Target
             UserControlExercicio3 userControlExercicio3 = new UserControlExercicio3();
             AdicionarTapPages(name, text, userControlExercicio3);
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            tabControl.TabPages.Clear();
+            string name = "tabPageExercicio4";
+            string text = "Exercicio 4";
+            UserControlExercicio4 userControlExercicio4 = new UserControlExercicio4();
+            AdicionarTapPages(name, text, userControlExercicio4);
+        }
     }
 }
