@@ -14,3 +14,6 @@ C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\refint\Target.dll
 C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\Target.pdb
 C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\Target.genruntimeconfig.cache
 C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\ref\Target.dll
+C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\Target.sourcelink.json
+C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\Target.Views.UserControlExercicio1.resources
+C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\Target.Properties.Resources.resources
