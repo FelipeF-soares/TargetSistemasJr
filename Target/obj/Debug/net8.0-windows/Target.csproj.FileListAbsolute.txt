@@ -1,0 +1,16 @@
+C:\0.Projetos\Target\Target\Target\bin\Debug\net8.0-windows\Target.exe
+C:\0.Projetos\Target\Target\Target\bin\Debug\net8.0-windows\Target.deps.json
+C:\0.Projetos\Target\Target\Target\bin\Debug\net8.0-windows\Target.runtimeconfig.json
+C:\0.Projetos\Target\Target\Target\bin\Debug\net8.0-windows\Target.dll
+C:\0.Projetos\Target\Target\Target\bin\Debug\net8.0-windows\Target.pdb
+C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\Target.Form1.resources
+C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\Target.csproj.GenerateResource.cache
+C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\Target.GeneratedMSBuildEditorConfig.editorconfig
+C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\Target.AssemblyInfoInputs.cache
+C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\Target.AssemblyInfo.cs
+C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\Target.csproj.CoreCompileInputs.cache
+C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\Target.dll
+C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\refint\Target.dll
+C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\Target.pdb
+C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\Target.genruntimeconfig.cache
+C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\ref\Target.dll
