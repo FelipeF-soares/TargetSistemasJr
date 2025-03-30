@@ -18,3 +18,7 @@ C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\Target.sourcelink.js
 C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\Target.Views.UserControlExercicio1.resources
 C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\Target.Properties.Resources.resources
 C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\Target.Views.UserControlExercicio2.resources
+C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\Target.Views.UserControlExercicio3.resources
+C:\0.Projetos\Target\Target\Target\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\Target.csproj.AssemblyReference.cache
+C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\Target.csproj.Up2Date

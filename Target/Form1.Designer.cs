@@ -31,6 +31,7 @@
             button1 = new Button();
             tabControl = new TabControl();
             button2 = new Button();
+            button3 = new Button();
             SuspendLayout();
             // 
             // button1
@@ -48,7 +49,7 @@
             tabControl.Location = new Point(227, -2);
             tabControl.Name = "tabControl";
             tabControl.SelectedIndex = 0;
-            tabControl.Size = new Size(573, 453);
+            tabControl.Size = new Size(855, 453);
             tabControl.TabIndex = 1;
             // 
             // button2
@@ -61,11 +62,22 @@
             button2.UseVisualStyleBackColor = true;
             button2.Click += button2_Click;
             // 
+            // button3
+            // 
+            button3.Location = new Point(49, 240);
+            button3.Name = "button3";
+            button3.Size = new Size(90, 34);
+            button3.TabIndex = 3;
+            button3.Text = "Exercicio 3";
+            button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(1081, 450);
+            Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(tabControl);
             Controls.Add(button1);
@@ -79,5 +91,6 @@
         private Button button1;
         private TabControl tabControl;
         private Button button2;
+        private Button button3;
     }
 }
