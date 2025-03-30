@@ -30,6 +30,7 @@
         {
             button1 = new Button();
             tabControl = new TabControl();
+            button2 = new Button();
             SuspendLayout();
             // 
             // button1
@@ -50,11 +51,22 @@
             tabControl.Size = new Size(573, 453);
             tabControl.TabIndex = 1;
             // 
+            // button2
+            // 
+            button2.Location = new Point(49, 175);
+            button2.Name = "button2";
+            button2.Size = new Size(90, 34);
+            button2.TabIndex = 2;
+            button2.Text = "Exercicio 2";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(button2);
             Controls.Add(tabControl);
             Controls.Add(button1);
             Name = "Form1";
@@ -66,5 +78,6 @@
 
         private Button button1;
         private TabControl tabControl;
+        private Button button2;
     }
 }

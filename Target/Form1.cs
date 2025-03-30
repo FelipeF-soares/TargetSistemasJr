@@ -29,5 +29,14 @@ namespace Target
             UserControlExercicio1 userControlExercicio1 = new UserControlExercicio1();
             AdicionarTapPages(name, text, userControlExercicio1);
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            tabControl.TabPages.Clear();
+            string name = "tabPageExercicio2";
+            string text = "Exercicio 2";
+            UserControlExercicio2 userControlExercicio2 = new UserControlExercicio2();
+            AdicionarTapPages(name, text, userControlExercicio2);
+        }
     }
 }
