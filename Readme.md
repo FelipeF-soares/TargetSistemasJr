@@ -119,7 +119,7 @@ Tela do Exercício 03
 ![Exercício 04](imagens/06.JPG)
 Tela do Exercício 04
 
-![Exercício 05](imagens/07)
+![Exercício 05](imagens/07.JPG)
 Tela do Exercício 05
 
 ---
