@@ -97,6 +97,33 @@ Imprimir(SOMA);
 
 ---
 
-📧 **Contato:** [seu.email@email.com](mailto:felipe.fends@gmail.com)
+---
+
+## Telas do Projeto
+
+![Tela Principal](01.jpg)
+Primeira Tela.
+
+![Exercício 01](02.jpg)
+Tela do Exercício 01
+
+![Exercício 02](03.jpg)
+Tela do Exercício 02
+
+![Exercício 02](04.jpg)
+Tela do Exercício 02
+
+![Exercício 03](05.jpg)
+Tela do Exercício 03
+
+![Exercício 04](06.jpg)
+Tela do Exercício 04
+
+![Exercício 05](07.jpg)
+Tela do Exercício 05
+
+---
+
+📧 **Contato:** [felipe.fends@gmail.com](mailto:felipe.fends@gmail.com)
 
 📅 **Desenvolvido para o Processo Seletivo da Target Sistemas**
