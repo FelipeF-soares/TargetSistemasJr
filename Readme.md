@@ -22,7 +22,7 @@ Imprimir(SOMA);
 
 **Pergunta:** Qual será o valor final da variável `SOMA` após a execução?
 
-📌 **Solução:** [Clique aqui](#)
+📌 **Solução:** [Clique aqui](https://github.com/FelipeF-soares/TargetSistemasJr/blob/main/Target/Models/Exercicio1.cs)
 
 ---
 
@@ -30,7 +30,7 @@ Imprimir(SOMA);
 
 **Objetivo:** Desenvolver um programa que recebe um número e verifica se ele pertence à sequência de Fibonacci.
 
-📌 **Solução:** [Clique aqui](#)
+📌 **Solução:** [Clique aqui](https://github.com/FelipeF-soares/TargetSistemasJr/blob/main/Target/Models/Exercicio2.cs)
 
 ---
 
@@ -41,7 +41,7 @@ Imprimir(SOMA);
 - Encontre o **menor** e o **maior** faturamento diário no mês.
 - Determine quantos dias tiveram faturamento **acima da média mensal**.
 
-📌 **Solução:** [Clique aqui](#)
+📌 **Solução:** [Clique aqui](https://github.com/FelipeF-soares/TargetSistemasJr/blob/main/Target/Models/Exercicio3.cs)
 
 ---
 
@@ -55,7 +55,7 @@ Imprimir(SOMA);
 - **ES** – R$27.165,48
 - **Outros** – R$19.849,53
 
-📌 **Solução:** [Clique aqui](#)
+📌 **Solução:** [Clique aqui](https://github.com/FelipeF-soares/TargetSistemasJr/blob/main/Target/Models/Exercicio4.cs)
 
 ---
 
@@ -63,15 +63,15 @@ Imprimir(SOMA);
 
 **Objetivo:** Criar um programa que inverta os caracteres de uma string **sem utilizar funções prontas como `reverse`**.
 
-📌 **Solução:** [Clique aqui](#)
+📌 **Solução:** [Clique aqui](https://github.com/FelipeF-soares/TargetSistemasJr/blob/main/Target/Models/Exercicio5.cs)
 
 ---
 
 ## 🖥️ Tecnologias Utilizadas
 
 ✅ **Linguagem:** C#
-✅ **Ambiente:** .NET 6+
-✅ **Bibliotecas:** Nenhuma biblioteca externa foi utilizada, apenas recursos nativos da linguagem.
+✅ **Ambiente:** .NET 8 - Windows Form
+✅ **Bibliotecas:** Newtonsoft.Json
 
 ---
 
@@ -79,11 +79,11 @@ Imprimir(SOMA);
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seuusuario/seu-repositorio.git
+   git clone https://github.com/FelipeF-soares/TargetSistemasJr.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd seu-repositorio
+   cd Target/Target/Target/bin/Release/net8.0-windows/Target.exe
    ```
 3. Execute cada programa conforme a estrutura do projeto.
 
@@ -91,12 +91,12 @@ Imprimir(SOMA);
 
 ## 🔗 Link para o Repositório no GitHub
 
-📌 **[Acesse o repositório aqui](https://github.com/seuusuario/seu-repositorio)**
+📌 **[Acesse o repositório aqui](https://github.com/FelipeF-soares/TargetSistemasJr/tree/main/Target)**
 
 📢 Caso tenha dúvidas ou sugestões, sinta-se à vontade para entrar em contato!
 
 ---
 
-📧 **Contato:** [seu.email@email.com](mailto:seu.email@email.com)
+📧 **Contato:** [seu.email@email.com](mailto:felipe.fends@gmail.com)
 
 📅 **Desenvolvido para o Processo Seletivo da Target Sistemas**
