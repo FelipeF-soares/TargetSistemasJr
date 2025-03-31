@@ -8,6 +8,7 @@ namespace Target
         public Form1()
         {
             InitializeComponent();
+            this.MaximizeBox = false;
         }
 
         private void AdicionarTapPages(string name, string text, UserControl userControl)
@@ -55,6 +56,20 @@ namespace Target
             string text = "Exercicio 4";
             UserControlExercicio4 userControlExercicio4 = new UserControlExercicio4();
             AdicionarTapPages(name, text, userControlExercicio4);
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            tabControl.TabPages.Clear();
+            string name = "tabPageExercicio5";
+            string text = "Exercicio 5";
+            UserControlExercicio5 userControlExercicio5 = new UserControlExercicio5();
+            AdicionarTapPages(name, text, userControlExercicio5);
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

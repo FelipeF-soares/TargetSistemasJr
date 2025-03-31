@@ -23,3 +23,4 @@ C:\0.Projetos\Target\Target\Target\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
 C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\Target.csproj.AssemblyReference.cache
 C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\Target.csproj.Up2Date
 C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\Target.Views.UserControlExercicio4.resources
+C:\0.Projetos\Target\Target\Target\obj\Debug\net8.0-windows\Target.Views.UserControlExercicio5.resources
