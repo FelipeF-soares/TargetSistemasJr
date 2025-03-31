@@ -101,25 +101,25 @@ Imprimir(SOMA);
 
 ## Telas do Projeto
 
-![Tela Principal](01.jpg)
+![Tela Principal](imagens/01.jpg)
 Primeira Tela.
 
-![Exercício 01](02.jpg)
+![Exercício 01](imagens/02.jpg)
 Tela do Exercício 01
 
-![Exercício 02](03.jpg)
+![Exercício 02](imagens/03.jpg)
 Tela do Exercício 02
 
-![Exercício 02](04.jpg)
+![Exercício 02](imagens/04.jpg)
 Tela do Exercício 02
 
-![Exercício 03](05.jpg)
+![Exercício 03](imagens/05.jpg)
 Tela do Exercício 03
 
-![Exercício 04](06.jpg)
+![Exercício 04](imagens/06.jpg)
 Tela do Exercício 04
 
-![Exercício 05](07.jpg)
+![Exercício 05](imagens/07.jpg)
 Tela do Exercício 05
 
 ---
